@@ -1,0 +1,2 @@
+# JStesting
+Testing Jest functionality 
